@@ -1,3 +1,7 @@
+lib/
+src/test/
+*.iml
+target/
 .metadata
 bin/
 tmp/
@@ -102,8 +106,5 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 .idea/inspectionProfiles/
-lib/
-src/test/
-*.iml
 
 
